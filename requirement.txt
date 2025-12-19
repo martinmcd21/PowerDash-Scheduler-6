@@ -1,5 +1,6 @@
 streamlit
 openai
-PyMuPDF
+PyMuPDF==1.24.10
 Pillow
 pytz
+requests
